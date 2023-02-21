@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author : Benedicta
+#Author : Bene
 #Date : 02/21/2023
 
 ### Discription : Installing Sonarqube
