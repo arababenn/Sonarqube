@@ -8,6 +8,7 @@
 sudo yum update -y
 sudo yum install java-11-openjdk-devel -y
 sudo yum install java-11-openjdk -y
+sleep 5
 cd /opt
 sudo yum install wget -y
 sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.3.0.51899.zip
